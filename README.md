@@ -1,6 +1,6 @@
 # Bosch Üretim Hattı Kalite Analizi
 
-Bosch uretim hatti performans verisi uzerinde yapilan kalite analizi projesi.
+Bosch uretim hatti performans verisi üzerine yapılan kalite analizi projesi.
 
 ## Proje Özeti
 - 1.18 milyon ürün, 969 sensör ölçümü analiz edildi
