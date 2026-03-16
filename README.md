@@ -1,14 +1,14 @@
-# Bosch Uretim Hatti Kalite Analizi
+# Bosch Üretim Hattı Kalite Analizi
 
 Bosch uretim hatti performans verisi uzerinde yapilan kalite analizi projesi.
 
-## Proje Ozeti
+## Proje Özeti
 - 1.18 milyon urun, 969 sensor olcumu analiz edildi
 - DuckDB ile buyuk veri RAM doldurmadan islendi
 - Random Forest modeli ile %97.4 dogruluk elde edildi
 - Hatali urunlerin %100u basariyla tespit edildi
 
-## Kullanilan Teknolojiler
+## Kullanılan Teknolojiler
 - R, RStudio
 - DuckDB (buyuk veri isleme)
 - Random Forest (makine ogrenmesi)
@@ -26,13 +26,13 @@ Bosch uretim hatti performans verisi uzerinde yapilan kalite analizi projesi.
 ## Veri Seti
 Kaggle Bosch Production Line Performance
 https://www.kaggle.com/competitions/bosch-production-line-performance
-## Gorseller
+## Görseller
 
-### Uretim Hatti Dagilimi
+### Üretim Hattı Dağılımı
 ![Hat Dagilimi](images/hat_dagilimi.png)
 
-### Urun Kalite Dagilimi
+### Ürün Kalite Dağılımı
 ![Hata Dagilimi](images/hata_dagilimi.png)
 
-### En Onemli Sensorler
+### En Önemli Sensörler
 ![Feature Importance](images/feature_importance.png)
