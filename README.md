@@ -26,3 +26,13 @@ Bosch uretim hatti performans verisi uzerinde yapilan kalite analizi projesi.
 ## Veri Seti
 Kaggle Bosch Production Line Performance
 https://www.kaggle.com/competitions/bosch-production-line-performance
+## Gorseller
+
+### Uretim Hatti Dagilimi
+![Hat Dagilimi](images/hat_dagilimi.png)
+
+### Urun Kalite Dagilimi
+![Hata Dagilimi](images/hata_dagilimi.png)
+
+### En Onemli Sensorler
+![Feature Importance](images/feature_importance.png)
